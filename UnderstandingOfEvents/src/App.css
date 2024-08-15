@@ -1,0 +1,17 @@
+.outerdiv ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    gap:5px;
+}
+
+.outerdiv ul li button{
+    color:white;
+    background-color:#508af7;
+    border: none;
+    cursor: pointer;
+}
+.Activebutton {
+    background-color: rgb(137, 81, 194) !important;
+    color: white !important;
+}
